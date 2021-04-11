@@ -1,5 +1,7 @@
 # Team 238
 
+This project is an attempt at creating a model to predict university COVID cases based on historical testing data from fourteen US colleges and universities. The model is 85.4% accurate in predicting.
+
 ## Inspiration
 COVID has had an enormous impact on how universities function and how students receive their education. Through open data initiatives, there are infinite possibilities in creating models that can have a positive effect in creating equitable policies.
 
